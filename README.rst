@@ -17,3 +17,5 @@ build and source must be in different folders (use default), and select to inclu
     make html
 
 Documentation must be inside the [PROJECT_NAME] folder within src.
+
+Then, in the conf.py file change the theme to "spinx_rtd_theme"
